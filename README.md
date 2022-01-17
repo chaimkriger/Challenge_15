@@ -23,44 +23,28 @@ High: “20% bonds (AGG), 80% equities (SPY)”
 
 ---
 
-Technologies
+## Technologies
+
 This project leverages Python 3.7.
 
-Installation Guide
+---
+
+## Installation Guide
+
 Before running this application, Python must be installed.
 
-Usage
-Simply run the code to view the three different models I have created. You can change any of the models to your preference, to see if you can get a higher accuracy score.
+---
 
-Contributors
+## Usage
+
+Simply launch amazon lex and begin a chat with the bot to get started on investing for your retirement!
+
+---
+
+## Contributors
+
 Just me, and a little bit of help from module 13
 
-License
-No license, feel free to copy the code any time.
+## License
 
-About
-No description, website, or topics provided.
-Topics
-Resources
- Readme
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Languages
-Jupyter Notebook
-100.0%
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
+No license, feel free to copy the code any time.
